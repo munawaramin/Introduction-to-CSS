@@ -1,1 +1,138 @@
 /* Your CSS goes here */
+.nav {
+    background-color: #454f6f;
+    font-size: 17px;
+    font-family: Arial;
+    width: 1340px;
+    display: flex;
+}
+.nav h3 {
+     
+     margin-top: 15px;
+     color: white;
+     padding-left: 65px;
+}
+.nav ul {
+    text-align: right;
+    padding-left: 55%;
+    margin-top: 1.5%;
+}
+
+.nav li {
+    display: inline-block;
+    
+}
+.nav a {
+    text-decoration: solid;
+    color: white;
+    
+    padding-right: 20px;
+    text-align: right;
+   
+    
+}
+.head {
+    background-color: #e6834c;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-size: 30px;
+    font-family: 'Arial Narrow Bold';
+}
+
+.bar h3 {
+    text-align: center;
+    font-size: x-large;
+}
+
+.bar {
+    background-color: #d3e9f5;
+   border: #454f6f;
+   margin: 30px;
+   padding: 35px;
+   padding-top: 25px;
+   font-size: 18px;
+}
+
+.items {
+    display: flex;
+    
+}
+
+.item--1 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: auto;
+    font-family: arial Bold;
+}
+
+.item--2 {
+     text-align: center;
+     margin-left: 200px;
+     font-size: 30px;
+     margin-top: auto;
+     font-family: arial Bold;
+     
+     
+}
+.item--1 h4 {
+    font-size: 30px;
+}
+
+.address {
+    display: flex;
+}
+
+.address--1 {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: arial Bold;
+}
+
+.address--2 {
+    text-align: center;
+    margin-left: 300px;
+    font-size: 25px;
+    margin-top: auto;
+    font-family: arial Bold;
+}
+
+.address--1 h4 {
+    font-size: 30px;
+}
+
+.footer {
+    background-color: #454f6f;
+    font-size: 17px;
+    font-family: Arial;
+    width: 1340px;
+    display: flex;
+}
+ .footer h4 {
+    margin-top: 15px;
+    color: white;
+    padding-left: 65px;
+ }
+ 
+ .footer ul {
+    text-align: right;
+    padding-left: 55%;
+    margin-top: 1.5%;
+ }
+
+ .footer li {
+    display: inline-block;
+ }
+
+ .footer a {
+    text-decoration: solid;
+    color: white;
+    padding-right: 20px;
+    text-align: right;
+ }
+
+ .copyright { 
+    background-color: #e6834c;
+    text-align: center;
+ }
